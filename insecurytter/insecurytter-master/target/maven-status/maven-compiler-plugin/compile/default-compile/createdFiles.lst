@@ -1,0 +1,9 @@
+sec\project\config\SecurityConfiguration.class
+sec\project\controller\WallController.class
+sec\project\domain\Message.class
+WebConfig.class
+sec\project\CyberSecurityBaseProjectApplication.class
+sec\project\domain\Account.class
+sec\project\repository\AccountRepository.class
+sec\project\repository\MessageRepository.class
+sec\project\config\CustomUserDetailsService.class
